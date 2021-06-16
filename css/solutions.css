@@ -1,0 +1,19 @@
+.container-content
+{
+    padding-left: 20px;
+}
+
+.title
+{
+    margin-bottom: 10px;
+}
+
+.title:first-child
+{
+    margin-top: 30px;
+}
+
+.text-description
+{
+    margin-top: 0;
+}
